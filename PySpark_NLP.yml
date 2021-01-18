@@ -1,0 +1,7 @@
+name: PySpark_NLP
+dependencies:
+  - python=3.6
+  - pyspark
+  - numpy
+  - pandas
+  - wget
